@@ -1,0 +1,11 @@
+# Default ignored files
+/inspectionProfiles/
+/shelf/
+/workspace.xml
+/.idea/
+/venv/
+*.txt
+*.png
+*.log
+*.jpg
+*.key
