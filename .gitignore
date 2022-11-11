@@ -5,8 +5,7 @@
 /.idea/
 /venv/
 *.txt
-*.png
 *.log
-*.jpg
 *.key
 *.iml
+challenge.png
