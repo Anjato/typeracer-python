@@ -27,4 +27,4 @@ Automatically completes races **AND TESTS** on https://www.typeracer.com/
 [![Typeracer Python Gif](https://github.com/Anjato/typeracer-python/blob/master/media/preview.gif)](https://player.vimeo.com/video/769885444/)
 
 ### Accounts
-<img src="https://user-images.githubusercontent.com/13285227/201352103-b5c9af11-89f9-4ce4-a510-e4d6b596f74a.png" width="400" /> &emsp <img src="https://user-images.githubusercontent.com/13285227/201352105-93a91fe3-de5d-47f9-9d30-df82d012ff19.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/13285227/201352103-b5c9af11-89f9-4ce4-a510-e4d6b596f74a.png" width="400" /> &emsp; <img src="https://user-images.githubusercontent.com/13285227/201352105-93a91fe3-de5d-47f9-9d30-df82d012ff19.png" width="400"/>
