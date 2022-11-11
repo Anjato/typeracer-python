@@ -60,11 +60,10 @@ def login():
                                                                               "> table > tbody > tr:nth-child(1) "
                                                                               "> td > input")))
     signInButton = driver.find_element(By.CSS_SELECTOR, ".gwt-Button[type=button]")
-    alert = Alert(driver)
 
     # sends the username and password from the creds.txt file to the appropriate text boxes
     usernameTextBox.send_keys(user)
-
+    alert = Alert(driver)
     # check if random alert pops up and close it
     if alert.text != '':
         alert.accept()
