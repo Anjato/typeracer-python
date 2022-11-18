@@ -19,7 +19,7 @@ Automatically completes races **AND TESTS** on https://www.typeracer.com/
 
 - [ ] Account email verification
 - [ ] Variable WPM with races (tests are more difficult due to waiting for the OCR API to retrieve a result)
-- [ ] Allow user to loop through more than 1 test
+- [ ] Allow user to loop through multiple races
 
 
 ## Media
